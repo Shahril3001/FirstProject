@@ -6,8 +6,6 @@ public class Practical_Part6 {
 		double feet = 6; 	    
 		double meter = 0.305;
 		double converter = feet * meter;
-	 
-	      
 	    System.out.println(feet+"feet convert to meter is  " + converter +"m.");
 	}
 
