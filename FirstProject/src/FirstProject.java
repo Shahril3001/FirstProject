@@ -1,6 +1,7 @@
 public class FirstProject {
 	public static void main(String[] args) {
-		System.out.println("Hello Shahril3001!"); 
+		System.out.println("Hello Word");
+		
 		final int n = 20;          // To compute factorial of n
 	    int factorial = 1;   // the product to 1
 	 
