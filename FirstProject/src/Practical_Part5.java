@@ -8,9 +8,9 @@ public class Practical_Part5 {
 		int num4 = 14;
 		int num5 = 18;
 	 
-		int sum = (num1+num2+num3+num4+num5)/5;
+		int ave = (num1+num2+num3+num4+num5)/5;
 	      
-	    System.out.println("Average of sum is " + sum);
+	    System.out.println("Total average is " + ave+".");
 	}
 
 }
